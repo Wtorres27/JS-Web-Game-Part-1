@@ -47,11 +47,18 @@ newImage("assets/green-character.gif", "100", "100");
 // NON-MOVEABLE OBJECTS V
 newImage("assets/boulder.png", "00", "500");
 newImage("assets/boulder.png", "1750", "500");
-newImage("assets/crate.png", "150", "200");
+
+newImage("assets/crate.png", "1700", "450");
+
+newImage("assets/red-character.gif", "1200", "480");
+
 newImage("assets/pillar.png", "350", "100");
 newImage("assets/pillar.png", "650", "100");
 newImage("assets/pillar.png", "950", "100");
+newImage("assets/pillar.png", "950", "100");
+
 newImage("assets/well.png", "530", "470");
+
 newImage("assets/rock.png", "", "480");
 newImage("assets/rock.png", "", "460");
 newImage("assets/rock.png", "", "440");
@@ -126,5 +133,5 @@ newImage("assets/pine-tree.png", "1600", "500");
 
 // DOUBLE CLICKABLE
 newItem("assets/sword.png", "550", "480");
-newItem("assets/shield.png", "240", "250");
-newItem("assets/staff.png", "650", "100");
+newItem("assets/shield.png", "1700", "400");
+newItem("assets/staff.png", "850", "300");
